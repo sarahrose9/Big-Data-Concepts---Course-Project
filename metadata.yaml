@@ -1,0 +1,5 @@
+Title: Housing Affordability Analysis Project
+Author: Sarah Dias Barreto
+Description: This project analyzes housing affordability in the United States using data from the Housing Affordability Dataset (HADS). It includes data preprocessing, data cleaning, exploratory data analysis, and visualization using Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, PySpark, and MongoDB.
+Keywords: housing, affordability, analysis, Python, Pandas, NumPy, Matplotlib, Seaborn, PySpark, MongoDB
+License: MIT License
